@@ -1,0 +1,31 @@
+@article{,
+	author = {and},
+	title = {{}},
+	journal = {},
+	volume = {},
+	number = {},
+	pages = {--},
+	year = {}
+}
+
+@inproceedings{,
+	author = {and},
+	title = {{}},
+	booktitle = {},
+	pages = {--},
+	year = {}
+}
+
+@book{,
+	author = {and},
+	title = {{}},
+	publisher = {},
+	year = {}
+}
+
+@misc{,
+	author = {and},
+	title = {{}},
+	howpublished = {},
+	year = {}
+}

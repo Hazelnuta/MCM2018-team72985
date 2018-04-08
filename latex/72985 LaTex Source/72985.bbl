@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{Xi2013}
+X.~Xi, R.~Sioshansi, and V.~Marano.
+\newblock {Simulation–Optimization Model for Location of a Public Electric
+  Vehicle Charging Infrastructure}.
+\newblock {\em Transportation Research Part D: Transport and Environment},
+  22:60--69, 2013.
+
+\bibitem{Shi2014}
+Q.~Shi and X.~Zheng.
+\newblock {Electric Vehicle Charging Stations Optimal Location Based on Fuzzy
+  C-Means Clustering}.
+\newblock In {\em Mechatronics Engineering, Computing and Information
+  Technology}, pages 3972--3975, 2014.
+
+\bibitem{Dong2016}
+X.~Dong, Y.~Mu, H.~Jia, J.~Wu, and X.~Yu.
+\newblock {Planning of Fast EV Charging Stations on a Round Freeway}.
+\newblock {\em IEEE Transactions on Sustainable Energy}, 7(4):1452--1461, 2016.
+
+\bibitem{Kim2012}
+Jong-Geun Kim and M.~Kuby.
+\newblock {The deviation-Flow Refueling Location Model for Optimizing a Network
+  of Refueling Stations}.
+\newblock {\em International Journal of Hydrogen Energy}, 37(6):5406--5420,
+  2012.
+
+\bibitem{Wu2017}
+F.~Wu and R.~Sioshansi.
+\newblock {A Stochastic Flow-Capturing Model to Optimize the Location of
+  Fast-Charging Stations with Uncertain Electric Vehicle Flows}.
+\newblock {\em Transportation Research Part D: Transport and Environment},
+  53:354--376, 2017.
+
+\bibitem{Supercharging}
+{Supercharger | Tesla}.
+\newblock https://www.tesla.com/supercharger.
+
+\bibitem{DestinationCharging}
+{Destination Charging | Tesla}.
+\newblock https://www.tesla.com/destination-charging.
+
+\bibitem{TrafficAnalysisZone}
+H.~J. Miller and S.~Shaw.
+\newblock {\em {Geographic Information Systems for Transportation}}.
+\newblock Oxford University Press, 2001.
+
+\bibitem{Li2017}
+X.~Li, P.~Chen, and X.~Wang.
+\newblock {Impacts of Renewables and Socioeconomic Factors on Electric Vehicle
+  Demands – Panel Data Studies Across 14 Countries}.
+\newblock {\em Energy Policy}, 109:473--478, 2017.
+
+\bibitem{ChinaBan}
+S.~Pham.
+\newblock {China Wants to Ban Gas and Diesel Cars}.
+\newblock
+  http://money.cnn.com/2017/09/11/news/china-gas-electric-car-ban/index.html,
+  2017.
+
+\bibitem{SelfDriving}
+R.~Mccauley.
+\newblock {Why Autonomous and Electric Vehicles are Inextricably Linked}.
+\newblock
+  http://www.govtech.com/fs/why-autonomous-and-electric-vehicles-are-inextricably-linked.html,
+  2017.
+
+\bibitem{Nikitas2017}
+A.~Nikitas, I.~Kougias, E.~Alyavina, and E.~Njoya~Tchouamou.
+\newblock {How Can Autonomous and Connected Vehicles, Electromobility, BRT,
+  Hyperloop, Shared Use Mobility and Mobility-As-A-Service Shape Transport
+  Futures for the Context of Smart Cities?}
+\newblock {\em Urban Science}, 1(4), 2017.
+
+\bibitem{SharedEV}
+{The Electric Sharing Revolution}.
+\newblock https://fastned.nl/en/blog/post/the-electric-sharing-revolution,
+  2017.
+
+\bibitem{FlyingCar}
+K.~Korosec.
+\newblock {Startup ChargePoint Will Provide the Juice for Uber's Electric
+  Flying Cars}.
+\newblock http://fortune.com/2017/04/25/uber-flying-cars-chargepoint/, 2017.
+
+\end{thebibliography}
